@@ -52,7 +52,7 @@ flex-table:all;
 justify-content: space-around;
 }
 
-@media only screen and (min-width:480px) and (max-width:800px){
+@media only screen and (min-width:69px) and (max-width:800px){
 .card-view,.card3{
 border: 2px solid black;
 padding:1%;
@@ -67,7 +67,7 @@ border: 2px solid black;
 padding:1%;
 margin: 1%;
 display: flex;
-flex-direction: column;
+flex-direction: row;
 flex-table:all;
 justify-content: space-around;
 }
